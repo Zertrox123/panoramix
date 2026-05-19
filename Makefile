@@ -16,7 +16,7 @@ CFLAGS = -g3 -I./include -Wno-deprecated-declarations
 NAME = panoramix
 
 $(NAME):	$(OBJ)
-		gcc -o $(NAME) $(OBJ) $(CFLAGS)
+		clang -o $(NAME) $(OBJ) $(CFLAGS)
 
 all: $(NAME)
 
