@@ -1,8 +1,8 @@
 # Panoramix
 
-Projet de concurrence en C (problème des philosophes / druide) pour gérer des threads consommateurs et producteurs autour d'une marmite commune.
+Projet de concurrence en C (problème des philosophes / druide) pour gérer des threads consommateurs et producteurs autour d'une marmite commune
 
-Utilise des mutex et des sémaphores POSIX pour éviter les race conditions et les deadlocks.
+Utilise des mutex et des sémaphores POSIX pour éviter les race conditions et les deadlocks
 
 ## Build et lancement
 
